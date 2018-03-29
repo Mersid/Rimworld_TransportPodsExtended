@@ -1,3 +1,7 @@
 C:\Users\Admin\Desktop\RimWorld.v0.18.1722\Mods\_Tutorial\Assemblies\TransportPodsExtended.dll
 C:\Users\Admin\Desktop\RimWorld.v0.18.1722\Mods\_Tutorial\Source\Source\Source\obj\Debug\Source.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\RimWorld.v0.18.1722\Mods\_Tutorial\Source\Source\Source\obj\Debug\TransportPodsExtended.dll
+C:\Users\Admin\Desktop\RimWorld.v0.18.1722\Mods\TransportPodsExtended\Assemblies\TransportPodsExtended.dll
+C:\Users\Admin\Desktop\RimWorld.v0.18.1722\Mods\TransportPodsExtended\Source\Source\Source\obj\Debug\Source.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\RimWorld.v0.18.1722\Mods\TransportPodsExtended\Source\Source\Source\obj\Debug\Source.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\RimWorld.v0.18.1722\Mods\TransportPodsExtended\Source\Source\Source\obj\Debug\TransportPodsExtended.dll

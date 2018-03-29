@@ -22,12 +22,14 @@ namespace TransportPodsExtended
 			HarmonyInstance harmony = HarmonyInstance.Create("TransportPod");
 			harmony.PatchAll(Assembly.GetExecutingAssembly());
 
+			/*
 			var methods = harmony.GetPatchedMethods();
 
 			foreach (var method in methods)
 			{
 				Log.Warning(method.ToString()); // Lists each loaded patch in this mod
 			}
+			*/
 
 		}
 	}
