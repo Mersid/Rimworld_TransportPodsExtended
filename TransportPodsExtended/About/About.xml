@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Transport Pods Extended</name>
+	<author>Uuugggg, Phoenix King, Mehni, Sam Kester, JDalt40, Soggy Noodle, and the awesome guys at the Rimworld Discord chat</author>
+	<targetVersion>0.18.0</targetVersion>
+	<description>Transport pods now use fuel according to its mass, in addition to its distance.</description>
+</ModMetaData>

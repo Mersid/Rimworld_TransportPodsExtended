@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Patch>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "PodLauncher"]/comps/li/fuelCapacity</xpath>
+		<value>
+			<fuelCapacity>250.0</fuelCapacity>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "TransportPod"]/comps/li[1]</xpath>
+		<value>
+			<li Class="CompProperties_Transporter">
+				<massCapacity>1200.0</massCapacity>
+			</li>
+		</value>
+	</Operation>
+</Patch>
